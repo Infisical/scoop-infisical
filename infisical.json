@@ -1,12 +1,12 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Infisical/infisical/releases/download/v0.0.2/infisical_0.0.2_windows_amd64.tar.gz",
+            "url": "https://github.com/Infisical/infisical/releases/download/v0.0.1/infisical_0.0.1_windows_amd64.tar.gz",
             "bin": [
                 "infisical.exe"
             ],
-            "hash": "83f42a60d9c3142d9ee3bce0d886f725bd7f83cfecc7fd8ff6a8640c11ebecb1"
+            "hash": "1ec4fb29efb05c6f26e468d830c5680ada88397cf45e8d1bec05d9443378400d"
         }
     },
     "homepage": "https://infisical.com",
