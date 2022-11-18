@@ -1,19 +1,19 @@
 {
-    "version": "0.3.5",
+    "version": "0.3.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Infisical/infisical-go-lang-cli/releases/download/v0.3.5/infisical-go-lang-cli_0.3.5_windows_386.tar.gz",
+            "url": "https://github.com/Infisical/infisical-go-lang-cli/releases/download/v0.3.6/infisical-go-lang-cli_0.3.6_windows_386.tar.gz",
             "bin": [
                 "infisical.exe"
             ],
-            "hash": "5214495ed5caaf5104bc0e9f2f0d0600329ddcf081117f17cfdef4f37bf59d9e"
+            "hash": "c46fccd7d00e75ac7b99653d841a74d39898397a533543370ccfa9a358f38998"
         },
         "64bit": {
-            "url": "https://github.com/Infisical/infisical-go-lang-cli/releases/download/v0.3.5/infisical-go-lang-cli_0.3.5_windows_amd64.tar.gz",
+            "url": "https://github.com/Infisical/infisical-go-lang-cli/releases/download/v0.3.6/infisical-go-lang-cli_0.3.6_windows_amd64.tar.gz",
             "bin": [
                 "infisical.exe"
             ],
-            "hash": "9bd9c9195aac95bfd3456093dc6f88e32f084724cd76d5eeabdad41b6631884a"
+            "hash": "5afda1b4a451aa69631f9fff77722354e4fc138eee1505a7b18b6c5cb78a98e6"
         }
     },
     "homepage": "https://infisical.com",
