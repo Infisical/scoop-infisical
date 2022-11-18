@@ -1,0 +1,22 @@
+{
+    "version": "0.3.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/Infisical/infisical-go-lang-cli/releases/download/v0.3.5/infisical-go-lang-cli_0.3.5_windows_386.tar.gz",
+            "bin": [
+                "infisical.exe"
+            ],
+            "hash": "5214495ed5caaf5104bc0e9f2f0d0600329ddcf081117f17cfdef4f37bf59d9e"
+        },
+        "64bit": {
+            "url": "https://github.com/Infisical/infisical-go-lang-cli/releases/download/v0.3.5/infisical-go-lang-cli_0.3.5_windows_amd64.tar.gz",
+            "bin": [
+                "infisical.exe"
+            ],
+            "hash": "9bd9c9195aac95bfd3456093dc6f88e32f084724cd76d5eeabdad41b6631884a"
+        }
+    },
+    "homepage": "https://infisical.com",
+    "license": "Apache-2.0",
+    "description": "The official Infisical CLI"
+}
