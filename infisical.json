@@ -6,14 +6,14 @@
             "bin": [
                 "infisical.exe"
             ],
-            "hash": "e503ac2fab0b1c975c5e62ceacac4e8bfc378e8f984b45d42d9672811c045c6e"
+            "hash": "b0aa6568fb3985eba10959c7a3c8de32f82a198febec22cd09631ee6226a3350"
         },
         "arm64": {
             "url": "https://github.com/Infisical/cli/releases/download/v0.44.5/cli_0.44.5_windows_arm64.zip",
             "bin": [
                 "infisical.exe"
             ],
-            "hash": "6004b6db8083f0fbb6153e7d3b180e69370c43f0342051367ee18a0f5b714a71"
+            "hash": "ab829e76b2722c439dba2173d7e74260a0ca6731f66d0b8e004681c5206c25a5"
         }
     },
     "homepage": "https://infisical.com",
